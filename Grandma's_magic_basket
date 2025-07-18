@@ -1,0 +1,14 @@
+Day 1: Grandma's Magic Basket
+
+Grandma Meera has a magical basket filled with golden apples. Every apple has a special number engraved on it. Today, she gives you one of these apples and tells you:
+“The number on this apple hides a secret. If you can find the sum of its digits, I’ll tell you the next clue in our treasure hunt!”
+Curious and excited, you look at the number on the apple. Can you help Grandma Meera by uncovering the secret?
+
+Your Task: Given a number engraved on the apple, calculate the sum of its digits
+Input: A single integer n, (0 ≤ n ≤ 10^9)
+Output: Print Sum of digits of n
+
+Give it a try.... Follow for more
+
+
+
